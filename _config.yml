@@ -1,0 +1,46 @@
+# Site settings
+title: Site do treinamento de docker ministrado na UFBA
+description: Site contendo o material do treinamento de docker
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://docker.intranet.ufba.br"
+
+# User settings
+username: Treinamento Docker
+user_description: Analista Linux SR
+user_title: Michel Peterson
+email: michel.peterson@l1nuxc0d3.com
+facebook_username: petterson.michel
+github_username: michelpetterson
+linkedin_username: michelpetterson 
+docker_username: michelpetterson
+disqus_username: lorem_ipsum
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Início
+    url: /
+  - title: Aulas
+    url: /aulas/
+  - title: Exercícios
+    url: /exercises
+  - title: Labs
+    url: /labs/
+
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
