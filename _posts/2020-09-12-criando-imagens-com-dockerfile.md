@@ -11,6 +11,7 @@ categories:
 twitter_text:
 exercise: 'https://docs.google.com/forms/d/e/1FAIpQLSfY2sYg-gBOtUKQ26RZM3J9L7enPtcs8tcGhRlY4_ZUV9286g/viewform'
 lab: 'https://docs.google.com/forms/d/e/1FAIpQLSeYNj2LgVu8N0u7wgwDqlj_S8s9prZJ8TBffbWUXhx5Zbb5KQ/viewform'
+presentation: '/assets/pp/Docker_Dia05.ppsx'
 ---
 
 Agora vamos entender como criar uma imagem personalizada no docker utilizando o dockerfile, entender os parâmetros básicos para colocar no arquivo, conhecer os comandos e parâmetrospara criar a imagem, renomear, colocar tag e enviar para o docker hub.
