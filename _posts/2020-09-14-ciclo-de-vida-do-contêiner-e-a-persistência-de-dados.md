@@ -9,6 +9,7 @@ tags:
 categories:
 - Docker
 twitter_text:
+presentation: '/assets/pp/Docker_Dia06.ppsx'
 exercise: 'https://docs.google.com/forms/d/e/1FAIpQLSf67i0CbToziG1gPOTJPx0pg0JVK0nsJC9suOZWGO9GlTBK9g/viewform'
 lab: 'https://docs.google.com/forms/d/e/1FAIpQLSe15f5GanGlpkCaXl0i-3D_PzQ9lCEI4Ut88nMsdPsSpsIFzw/viewform'
 ---
